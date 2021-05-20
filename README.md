@@ -3,7 +3,7 @@ Este é o repositório que contem os arquivos e vídeos-demostração do checkpo
 
 Link do vídeo do desafio 1: https://drive.google.com/file/d/1v6tBYJ3VPmDiLTx2Jzroqr4JJKz7xQic/view?usp=sharing
 
-Link do vídeo do desafio 2:
+Link do vídeo do desafio 2: https://drive.google.com/file/d/1wqP3kvwh9wwEI5OEH58-Eu27Ulf7lbej/view?usp=sharing
 
 Link do vídeo do desafio 3:
 
